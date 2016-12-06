@@ -10,4 +10,5 @@ SIM Home focuses on mature technologies for which saturation is likely to remain
 - [Linyi Xia] (https://www.linkedin.com/in/linyix), and Xiaocheng Shen performed the power measurement and the construction of the energy model. 
 
 # Tutorials for Sketchup and OpenStudio
-[OpenStudio](https://nrel.github.io/OpenStudio-user-documentation/getting_started/getting_started/)
+- [OpenStudio](https://nrel.github.io/OpenStudio-user-documentation/getting_started/getting_started/)
+- [Sketchup] (http://www.sketchup.com/learn/videos/58)
