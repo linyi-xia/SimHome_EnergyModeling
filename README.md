@@ -3,6 +3,7 @@ This project uses Google Sketchup, EnergyPlus and Open Studio to model and study
 
 SIM Home focuses on mature technologies for which saturation is likely to remain considerable or grow in coming years.  That is, SIM Home will not be testing cutting-edge devices that may never become prevalent in California homes, nor will it test devices that are rapidly declining in usage. We will have access to only one device of each type.  We will not be comparing devices across manufacturers or models, which would require substantially more time and expense, and is beyond the scope of this project.
 
+![Blueprint](/blob/master/Blueprint_Viewport.jpg?raw=true "Optional Title")
 
 # Project Team
 - [Dr. Joy Pixley] (https://www.linkedin.com/in/joy-pixley-ab647950) provided the foundation of this project statistical researches.
